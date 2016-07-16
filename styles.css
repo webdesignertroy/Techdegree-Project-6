@@ -1,6 +1,8 @@
 /*
 Tested on the following browsers:
--Safari 8 on Y
+-Safari 9.1 on OS X El Capitan
+-Firefox 47 on OS X El Capitan
+-Chrome  51 on OS X El Capitan
 */
 
 /**********************
@@ -193,10 +195,10 @@ Dogs
 Media Queries
 ***********************/
 @media (max-width: 419px) {
-.logo-st1 {
-	display: none;
-}
-.logo-title {
-	display: block;
-}
+	.logo-st1 {
+		display: none;
+	}
+	.logo-title {
+		display: block;
+	}
 }
